@@ -8,11 +8,11 @@ This course is well-organized with high-quality content.
 
 ### 10. Unit Testing in Spring
 
-- Lesson 7: [Unit Testing in Spring]()
-- Lesson 8: [Unit Testing Using Spring Boot]()
-- Lesson 9: [Unit Testing for Java Context]()
-- Lesson 10: [Unit Testing for XML Context]()
-- Lesson 11: [Spring Unit Testing with Mockito]()
+- Lesson 7: [Unit Testing in Spring](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8-3/blob/master/lesson7.md)
+- Lesson 8: [Unit Testing Using Spring Boot](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8-3/blob/master/lesson8.md)
+- Lesson 9: [Unit Testing for Java Context](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8-3/blob/master/lesson9.md)
+- Lesson 10: [Unit Testing for XML Context](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8-3/blob/master/lesson10.md)
+- Lesson 11: [Spring Unit Testing with Mockito](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-8-3/blob/master/lesson11.md)
 
 ## Other Parts
 
